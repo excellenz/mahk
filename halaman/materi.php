@@ -19,7 +19,7 @@
                         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sQhByNv7Ejk?rel=0"></iframe>
                     </div>
                     </br>
-                    <a href="#" class="btn btn-medium"><i class="icon-bolt"></i>Lihat Jadwal</a>
+                    <center><a href="#" class="btn btn-medium"><i class="icon-bolt"></i>Download Materi</a></center>
                 </div>  
             </div>
         </div>                 
