@@ -38,9 +38,10 @@
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.php">Home</a></li> 
-						<li><a href="index.php?page=e-learning">E - Learning</a></li>
-						<li><a href="index.php?page=contact">Hubungi Kami</a></li>
+                        <li class="<?php if(!isset($_GET['page'])) {echo "active";}?>"><a href="index.php">Home</a></li> 
+						<li class="<?php if($_GET['page'] === "profil") {echo "active";}?>"><a href="index.php?page=profil">Profil</a></li>
+						<li class="<?php if($_GET['page'] === "login") {echo "active";}?>"><a href="halaman/akun">Login</a></li>
+						<li class="<?php if($_GET['page'] === "kontak") {echo "active";}?>"><a href="index.php?page=kontak">Kontak</a></li>
                     </ul>
                 </div>
             </div>
