@@ -1,9 +1,12 @@
 <?php
-include "function.php";
-include "database.php";
 
-$id = $_POST['id_materi'];
-$data = new database();
+
+if (isset($_POST['id_materi'])) {
+    include "function.php";
+    include "database.php";
+    $data = new database();
+    $id = $_POST['id_materi'];
+
 
 ?>
 <!DOCTYPE html>
@@ -53,6 +56,12 @@ $data = new database();
             </div>
         </div>
     </header>
+
+    <?php
+} else {
+    $id = $_GET['id'];
+}
+    ?>
     <!-- end header -->
     <section id="inner-headline">
     <div class="container">
@@ -108,6 +117,10 @@ add_chatinline(); </script>
         ?>
     </div>
     </section>
+    <?php
+    if (isset($_POST['id_materi'])) {
+        # code...
+    ?>
     <footer>
         <div class="container">
             <div class="row">
@@ -150,3 +163,6 @@ add_chatinline(); </script>
 <script src="asset/main/js/owl-carousel/owl.carousel.js"></script>
 </body>
 </html>
+<?php
+}
+?>

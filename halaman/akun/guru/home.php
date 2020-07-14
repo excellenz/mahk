@@ -140,7 +140,7 @@ $mapel = $hasil->fetchAll();
                     ?>
                     <tr>
                       <td><?= $no; ?></td>
-                      <td><a href="../user.php?page=materi&id=<?= $mt['id']; ?>" target="_blank"><?= $mt['judul']; ?></a></td>
+                      <td><a href="../user.php?page=tampil-materi&id=<?= $mt['id']; ?>" target="_blank"><?= $mt['judul']; ?></a></td>
                       <td>
                         <div class="btn-group btn-group-sm">
                           <a href="user.php?page=edit-materi&id=<?= $mt['id']; ?>" class="btn btn-info"><i class="fas fa-pencil-alt"></i></a>
