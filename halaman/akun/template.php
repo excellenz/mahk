@@ -7,15 +7,15 @@
 <meta name="description" content="" />
 <meta name="author" content="http://webthemez.com" />
 <!-- css -->
-<link href="css/bootstrap.min.css" rel="stylesheet" />
-<link href="css/fancybox/jquery.fancybox.css" rel="stylesheet">
-<link href="css/jcarousel.css" rel="stylesheet" />
-<link href="css/flexslider.css" rel="stylesheet" />
-<link href="css/embed-responsive.css" rel="stylesheet" />
-<link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet" />
+<link href="asset/main/css/bootstrap.min.css" rel="stylesheet" />
+<link href="asset/main/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+<link href="asset/main/css/jcarousel.css" rel="stylesheet" />
+<link href="asset/main/css/flexslider.css" rel="stylesheet" />
+<link href="asset/main/css/embed-responsive.css" rel="stylesheet" />
+<link href="asset/main/js/owl-carousel/owl.carousel.css" rel="stylesheet">
+<link href="asset/main/css/style.css" rel="stylesheet" />
 
-<link rel="shortcut icon" href="img/favicon.ico"> 
+<link rel="shortcut icon" href="asset/main/img/favicon.ico"> 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -34,7 +34,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php"><img src="img/logo.jpg" alt="logo"/></a>
+                    <a class="navbar-brand" href="index.php"><img src="asset/main/img/logo.jpg" alt="logo"/></a>
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
@@ -76,16 +76,16 @@
 <!-- javascript
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="js/jquery.js"></script>
-<script src="js/jquery.easing.1.3.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.fancybox.pack.js"></script>
-<script src="js/jquery.fancybox-media.js"></script> 
-<script src="js/portfolio/jquery.quicksand.js"></script>
-<script src="js/portfolio/setting.js"></script>
-<script src="js/jquery.flexslider.js"></script>
-<script src="js/animate.js"></script>
-<script src="js/custom.js"></script>
-<script src="js/owl-carousel/owl.carousel.js"></script>
+<script src="asset/main/js/jquery.js"></script>
+<script src="asset/main/js/jquery.easing.1.3.js"></script>
+<script src="asset/main/js/bootstrap.min.js"></script>
+<script src="asset/main/js/jquery.fancybox.pack.js"></script>
+<script src="asset/main/js/jquery.fancybox-media.js"></script> 
+<script src="asset/main/js/portfolio/jquery.quicksand.js"></script>
+<script src="asset/main/js/portfolio/setting.js"></script>
+<script src="asset/main/js/jquery.flexslider.js"></script>
+<script src="asset/main/js/animate.js"></script>
+<script src="asset/main/js/custom.js"></script>
+<script src="asset/main/js/owl-carousel/owl.carousel.js"></script>
 </body>
 </html>
