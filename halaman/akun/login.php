@@ -4,7 +4,7 @@ require ("function.php");
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>MTs HK 2 | Masuk</title>
+	<title>MA Husnul Khotimah | Masuk</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<base <?php echo "href='".MAIN_URL."'"; ?>>

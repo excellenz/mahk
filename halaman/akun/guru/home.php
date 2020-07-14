@@ -1,6 +1,6 @@
 <?php 
 
-$hasil = $data->getDb()->query("SELECT * FROM mapel ORDER BY nama");
+$hasil = $data->getDb()->query("SELECT * FROM daftar_mapel ORDER BY nama");
 $mapel = $hasil->fetchAll();
 
 ?>
@@ -38,9 +38,16 @@ $mapel = $hasil->fetchAll();
                       <div class="form-group">
                         <label>Pilih Kelas</label>
                         <select class="form-control" name="level">
-                          <option value="7">7</option>
-                          <option value="8">8</option>
-                          <option value="9">9</option>
+                          <option value="id">Idad</option>
+                          <option value="xa">X IPA</option>
+                          <option value="xs">X IPS</option>
+                          <option value="xk">X PK</option>
+                          <option value="xia">XI IPA</option>
+                          <option value="xis">XI IPS</option>
+                          <option value="xik">XI PK</option>
+                          <option value="xiia">XII IPA</option>
+                          <option value="xiis">XII IPS</option>
+                          <option value="xiik">XII PK</option>
                         </select>
                       </div>
                     </div>
