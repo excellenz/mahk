@@ -92,8 +92,8 @@
             case 'jadwal-pat':
                 include "halaman/jadwal-pat.php";
                 break;
-            case 'contact':
-                include "halaman/contact.php";
+            case 'kontak':
+                include "halaman/kontak.php";
                 break;
             case 'kegiatan-harian':
                 include "halaman/kegiatan-harian.php";

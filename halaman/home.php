@@ -121,7 +121,7 @@
 		</div>
 		<div class="col-md-3 text-center"> 
 		<span class="icons c2"><i class="fa fa-desktop"></i></span> <div class="box-area">
-		<center><h3>Panilaian Akhir Tahun</h3> <p>Penilaian Akhir Tahun Berbasis Komputer dan Smartphone</p></center>
+		<center><h3>Online Test</h3> <p>Penilaian Hasil Pembelajaran Berbasis Komputer dan Smartphone</p></center>
                     <div class="pricing-action">
                         <a href="halaman/akun" class="btn btn-medium"><i class="icon-bolt"></i> Ikuti Ujian</a>
                     </div>
@@ -139,7 +139,7 @@
 		<span class="icons c4"><i class="fa fa-picture-o"></i></span> <div class="box-area">
 		<center><h3>Gallery</h3> <p>Galeri Kegiatan Santri MA Husnul Khotimah</p></center>
                     <div class="pricing-action">
-                        <a href="index.php?page=galeri" class="btn btn-medium"><i class="icon-bolt"></i> Lihat Galeri</a>
+                        <a href="#" class="btn btn-medium"><i class="icon-bolt"></i> Lihat Galeri</a>
                     </div>
 		</div></div>
 		</div> 
