@@ -68,7 +68,7 @@ require ("function.php");
 						</a>
 					</div>
 					<div class="text-center p-t-136">
-						<a class="txt2" href="https://mtshakadua.sch.id">
+						<a class="txt2" href="https://mahusnulkhotimah.sch.id">
 							MA HK Portal
 							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
 						</a>

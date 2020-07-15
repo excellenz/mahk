@@ -18,7 +18,7 @@ $mapel = $data_mapel->fetchAll();
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="pageTitle">E-Learning</h2>
+				<h2 class="pageTitle">E-Learning - <?= $nama_lengkap; ?></h2>
                 <p>Pembelajaran Daring Melalui Video Pembelajaran, Rangkuman Materi Dan Tes Pehahaman Materi.</p>
 			</div>
 		</div>
@@ -53,6 +53,8 @@ $mapel = $data_mapel->fetchAll();
                             </select>
                         </p>
                         <p>
+                            <input type="hidden" name="nama_santri" value="<?= $nama_lengkap; ?>">
+                            <input type="hidden" name="level" value="<?= $level; ?>">
                             <label for="cars"><button type="submit" class="btn btn-medium"> Pilih Materi</button></label>
                         </p>
                         </form>

@@ -6,7 +6,19 @@ if (isset($_POST['id_materi'])) {
     include "database.php";
     $data = new database();
     $id = $_POST['id_materi'];
+    $nama_santri = $_POST['nama_santri'];
+    $level = $_POST['level'];
 
+    if ( substr($level, 0, 3) == "xii" ) {
+        # code...
+        $kelascbt = "12";
+    } elseif ( substr($level, 0, 2) == "xi" ) {
+        # code...
+        $kelascbt = "11";
+    } else {
+        $kelascbt = "i10";
+    }
+    
 
 ?>
 <!DOCTYPE html>
@@ -104,7 +116,7 @@ if (isset($_POST['id_materi'])) {
                         <a href="<?php echo MAIN_URL.$key['file']; ?>" target="_blank" class="btn btn-medium">
                             <i class="icon-bolt"></i>Download Materi
                         </a>&nbsp
-                        <a href="https://excellenz-data-5.com/i10/" target="_blank" class="btn btn-medium">
+                        <a href="https://excellenz-data-5.com/<?= $kelascbt; ?>/" target="_blank" class="btn btn-medium">
                             <i class="icon-bolt"></i>Tes Pemahaman
                         </a>
                     </center>
