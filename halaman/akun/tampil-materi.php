@@ -11,12 +11,12 @@ if (isset($_POST['id_materi'])) {
 
     if ( substr($level, 0, 3) == "xii" ) {
         # code...
-        $kelascbt = "12";
+        $kelascbt = "https://excellenz-data-7/12/";
     } elseif ( substr($level, 0, 2) == "xi" ) {
         # code...
-        $kelascbt = "11";
+        $kelascbt = "https://excellenz-data-6/11/";
     } else {
-        $kelascbt = "i10";
+        $kelascbt = "https://excellenz-data-5/i10/";
     }
     
 
@@ -116,7 +116,7 @@ if (isset($_POST['id_materi'])) {
                         <a href="<?php echo MAIN_URL.$key['file']; ?>" target="_blank" class="btn btn-medium">
                             <i class="icon-bolt"></i>Download Materi
                         </a>&nbsp
-                        <a href="https://excellenz-data-5.com/<?= $kelascbt; ?>/" target="_blank" class="btn btn-medium">
+                        <a href="<?= $kelascbt; ?>/" target="_blank" class="btn btn-medium">
                             <i class="icon-bolt"></i>Tes Pemahaman
                         </a>
                     </center>
