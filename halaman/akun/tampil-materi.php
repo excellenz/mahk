@@ -11,12 +11,12 @@ if (isset($_POST['id_materi'])) {
 
     if ( substr($level, 0, 3) == "xii" ) {
         # code...
-        $kelascbt = "https://excellenz-data-7/12/";
+        $kelascbt = "https://excellenz-data-7.com/12";
     } elseif ( substr($level, 0, 2) == "xi" ) {
         # code...
-        $kelascbt = "https://excellenz-data-6/11/";
+        $kelascbt = "https://excellenz-data-6.com/11";
     } else {
-        $kelascbt = "https://excellenz-data-5/i10/";
+        $kelascbt = "https://excellenz-data-5.com/i10";
     }
     
 
