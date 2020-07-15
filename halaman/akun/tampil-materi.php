@@ -1,6 +1,5 @@
 <?php
 
-
 if (isset($_POST['id_materi'])) {
     include "function.php";
     include "database.php";
@@ -70,9 +69,9 @@ if (isset($_POST['id_materi'])) {
     </header>
 
     <?php
-} else {
-    $id = $_GET['id'];
-}
+        } else {
+            $id = $_GET['id'];
+        }
     ?>
     <!-- end header -->
     <section id="inner-headline">
