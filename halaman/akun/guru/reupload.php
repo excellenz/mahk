@@ -6,7 +6,8 @@ $data = new database();
 
 $id = $_POST['id'];
 $level_siswa = $_POST['level'];
-$mapel_kode = $_POST['mapel'];
+$mapel = $_POST['mapel'];
+$mapel_kode = $mapel.$level_siswa;
 $judul = $_POST['judul_materi'];
 $deskripsi = $_POST['deskripsi'];
 $video = $_POST['video'];
