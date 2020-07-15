@@ -59,7 +59,7 @@ $materi = $hasil->fetchAll();
                         <label>Pilih Mata Pelajaran</label>
                         <select class="form-control" name="mapel">
                         <?php
-                            $hasil2 = $data->getDb()->query("SELECT * FROM mapel");
+                            $hasil2 = $data->getDb()->query("SELECT * FROM daftar_mapel ORDER BY nama");
                             $mapel = $hasil2->fetchAll();
                             foreach ($mapel as $m) :
                         ?>
