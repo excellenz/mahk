@@ -78,7 +78,7 @@ if (isset($_POST['id_materi'])) {
             $materi = $data->tampilMateri($id);
             foreach ($materi as $key) :
         ?>
-        <div class="row"> 
+        <div class="row">
             <div class="col-md-12">
                 <div class="about-logo">
                     <h1>
@@ -108,11 +108,7 @@ if (isset($_POST['id_materi'])) {
                             <i class="icon-bolt"></i>Tes Pemahaman
                         </a>
                     </center>
-                </div>  
-            </div>
-            <div class="col-md-12">
-                <script type="text/javascript">function add_chatinline(){var hccid=79591463;var nt=document.createElement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
-add_chatinline(); </script>
+                </div>
             </div>
         </div>
         <div class="row">
