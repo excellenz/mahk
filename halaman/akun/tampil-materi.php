@@ -103,6 +103,9 @@ if (isset($_POST['id_materi'])) {
                     <center>
                         <a href="<?php echo MAIN_URL.$key['file']; ?>" target="_blank" class="btn btn-medium">
                             <i class="icon-bolt"></i>Download Materi
+                        </a>&nbsp
+                        <a href="https://excellenz-data-5.com/i10/" target="_blank" class="btn btn-medium">
+                            <i class="icon-bolt"></i>Tes Pemahaman
                         </a>
                     </center>
                 </div>  
