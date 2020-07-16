@@ -87,7 +87,7 @@ $materi = $hasil->fetchAll();
                     <label for="exampleInputFile">File input</label>
                     <div class="input-group">
                       <div class="custom-file">
-                        <input type="file" class="custom-file-input" id="exampleInputFile" name="file">
+                        <input type="file" class="custom-file-input" id="exampleInputFile" name="file" accept="application/pdf, application/vnd.openxmlformats-officedocument.presentationml.presentation, application/vnd.ms-powerpoint, application/msword, application/vnd.openxmlformats-officedocument.wordprocessingml.document">
                         <label class="custom-file-label" for="exampleInputFile">Masukkan file materi</label>
                       </div>
                     </div>
