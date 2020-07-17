@@ -122,7 +122,7 @@ if (isset($_POST['id_materi'])) {
                 </div>
             </div>
         </div>
-        <div class="row">
+        <!--<div class="row">
                 <div id="disqus_thread"></div>
                     <script>
                         /**
@@ -145,7 +145,7 @@ if (isset($_POST['id_materi'])) {
                         })();
                     </script>
                     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-            </div>
+            </div>-->
         <?php
             endforeach;
         ?>

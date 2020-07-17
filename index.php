@@ -1,3 +1,6 @@
+<?php 
+require "log.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
