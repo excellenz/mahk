@@ -13,7 +13,7 @@ $deskripsi = $_POST['deskripsi'];
 $video = $_POST['video'];
 $namaFile = $_FILES['file']['name'];
 $namaSementara = $_FILES['file']['tmp_name'];
-$extensionList = array ("ppt", "pptx", "pdf", "doc", "docx");
+$extensionList = array ("ppt", "PPT", "pptx", "PPTX", "pdf", "PDF", "doc", "DOC", "docx", "DOCX");
 $pecah = explode (".", $namaFile);
 $extensi = $pecah[1];
 
