@@ -10,8 +10,8 @@ $id = $_POST['id'];
 $level_siswa = $_POST['level'];
 $mapel = $_POST['mapel'];
 $mapel_kode = $mapel.$level_siswa;
-$judul = $_POST['judul_materi'];
-$deskripsi = $_POST['deskripsi'];
+$judul = addslashes($_POST['judul_materi']);
+$deskripsi = addslashes($_POST['deskripsi']);
 $video = $_POST['video'];
 $namaFile = $_FILES['file']['name'];
 $extensionList = array ("ppt", "PPT", "pptx", "PPTX", "pdf", "PDF", "doc", "DOC", "docx", "DOCX");
@@ -31,7 +31,7 @@ $extensi = $pecah[1];
         
         // tentukan lokasi file akan dipindahkan
         $dirUpload = "asset/main/files/";
-        $hasil = $dirUpload.$namaFile;
+        $hasil = $dirUpload.addslashes($namaFile);
         
         // pindahkan file
         $terupload = move_uploaded_file($namaSementara, "../".$dirUpload.$namaFile);
