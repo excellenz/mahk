@@ -1763,3 +1763,8 @@ padding:50px 0
     padding: 22px 0 14px;
     font-size: 18px;
 }
+/* Hizbu Added */
+form[action="tampil-materi.php"] select {
+	width: 100%;
+}
+/*!Hizbu Added */
