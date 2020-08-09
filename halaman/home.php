@@ -137,7 +137,7 @@
 		</div>
 		<div class="col-md-3 text-center"> 
 		<span class="icons c4"><i class="fa fa-picture-o"></i></span> <div class="box-area">
-		<center><h3>Gallery</h3> <p>Galeri Kegiatan Santri MA Husnul Khotimah</p></center>
+		<center><h3>Gallery</h3> <p>Galeri Santri MA Husnul Khotimah</p></center>
                     <div class="pricing-action">
                         <a href="#" class="btn btn-medium"><i class="icon-bolt"></i> Lihat Galeri</a>
                     </div>
