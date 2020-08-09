@@ -7,7 +7,7 @@ $siswa = $data_siswa->fetchAll();
 foreach ($siswa as $s) {
     # code...
     $user_name = $s['user_name'];
-    $nama_lengkap = $s['nama_lengkap'];
+    $nama_lengkap = htmlentities($s['nama_lengkap'], ENT_QUOTES);
     $level = $s['level'];
     $kelas = $s['kelas'];
 }
@@ -18,7 +18,7 @@ $mapel = $data_mapel->fetchAll();
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="pageTitle">E-Learning - <?= htmlentities($nama_lengkap,ENT_QUOTES); ?></h2>
+				<h2 class="pageTitle">E-Learning - <?= $nama_lengkap; ?></h2>
                 <p>Pembelajaran Daring Melalui Video Pembelajaran, Rangkuman Materi Dan Tes Pehahaman Materi.</p>
 			</div>
 		</div>
