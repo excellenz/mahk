@@ -53,25 +53,31 @@
                   <div class="card col-md-3">
                     <img src="oshk/zhafif.jpg" class="card-img-top">
                     <div class="card-body">
+                      <form method="post" action="">
+                      <input type="hidden" name="nourut" value="1">
                       <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
                       <p class="text-muted">Kelas : XI IPS 1</p>
                       <p class="text-muted">Asal  : Depok</p>
                       <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
                       <p class="text-muted">Hobi  : Memotret, Menyendja</p>
                       <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
-                      <a href="#" class="btn btn-primary">Pilih</a>
+                      <button class="btn btn-primary" type="submit">Pilih</button>
+                      </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
                     <img src="oshk/zhafif.jpg" class="card-img-top">
                     <div class="card-body">
+                      <form method="post" action="">
+                        <input type="hidden" name="nourut" value="2">
                       <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
                       <p class="text-muted">Kelas : XI IPS 1</p>
                       <p class="text-muted">Asal  : Depok</p>
                       <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
                       <p class="text-muted">Hobi  : Memotret, Menyendja</p>
                       <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
-                      <a href="#" class="btn btn-primary">Pilih</a>
+                      <button class="btn btn-primary" type="submit">Pilih</button>
+                      </form>
                     </div>
                   </div>
                 </div>
