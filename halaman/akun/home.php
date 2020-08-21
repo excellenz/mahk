@@ -7,7 +7,7 @@ $siswa = $data_siswa->fetchAll();
 foreach ($siswa as $s) {
     # code...
     $user_name = $s['user_name'];
-    $nama_lengkap = $s['nama_lengkap'];
+    $nama_lengkap = htmlentities($s['nama_lengkap'], ENT_QUOTES);
     $level = $s['level'];
     $kelas = $s['kelas'];
 }
