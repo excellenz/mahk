@@ -66,27 +66,27 @@
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/azra.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="2">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Azyumardi Azra Munawir</h3>
+                      <p class="text-muted">Kelas : XI PK 2</p>
+                      <p class="text-muted">Asal  : Indramayu</p>
+                      <p class="text-muted">TTL : Indramayu, 1 November 2003</p>
+                      <p class="text-muted">Hobi  : Fitness</p>
+                      <p class="text-muted">Motto Hidup : <i>Hidup Sekali Hidup yang berarti</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/ilyasa.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="3">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
+                      <h3 class="card-title">Ilyasa Syammas</h3>
+                      <p class="text-muted">Kelas : XI PK 1</p>
                       <p class="text-muted">Asal  : Depok</p>
                       <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
                       <p class="text-muted">Hobi  : Memotret, Menyendja</p>
@@ -103,9 +103,9 @@
                       <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
                       <p class="text-muted">Kelas : XI IPS 1</p>
                       <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <p class="text-muted">TTL : Depok, 23 Juni 2004</p>
+                      <p class="text-muted">Hobi  : Baca Buku</p>
+                      <p class="text-muted">Motto Hidup : <i>Ini Hidupmu lakukan sesuka-mu, jangan lupakan yang membantumu</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
