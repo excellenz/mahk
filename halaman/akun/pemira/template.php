@@ -367,61 +367,61 @@
               <div class="tab-pane fade" id="custom-tabs-two-messages" role="tabpanel" aria-labelledby="custom-tabs-two-messages-tab">
                 <div class="row col-md-12">
                   <div class="card col-md-3">
-                    <img src="osju/zhafif.png" class="card-img-top">
+                    <img src="osju/syauqi.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                       <input type="hidden" name="nourut" value="1">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Syauqi Mumtaz Mujahid</h3>
+                      <p class="text-muted">Kelas : VIII C</p>
+                      <p class="text-muted">Asal  : Cirebon Kota</p>
+                      <p class="text-muted">TTL : Cirebon, 6 Agustus 2007</p>
+                      <p class="text-muted">Hobi  : Dengar Ceramah ustadz</p>
+                      <p class="text-muted">Motto Hidup : <i>Berlaku Adil-lah, Karena Adil itu lebih dekat kepada Allah</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="osju/zhafif.png" class="card-img-top">
+                    <img src="osju/sayyid.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="2">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Sayyid Muhammad Muslim</h3>
+                      <p class="text-muted">Kelas : VIII C</p>
+                      <p class="text-muted">Asal  : Tangerrang Kota</p>
+                      <p class="text-muted">TTL : Banyuwangi, 12 Maret 2007</p>
+                      <p class="text-muted">Hobi  : Mengaji, Membaca, Main Musik</p>
+                      <p class="text-muted">Motto Hidup : <i>Bahagia itu Sederhana</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="osju/fahmi.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="3">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Fahmi Farhatan Yusuf</h3>
+                      <p class="text-muted">Kelas : VIII A</p>
+                      <p class="text-muted">Asal  : Majalengka</p>
+                      <p class="text-muted">TTL : Majalengka, 24 Desember 2007</p>
+                      <p class="text-muted">Hobi  : Futsal, Nyanyi</p>
+                      <p class="text-muted">Motto Hidup : <i>Jangan pikirkan kemarin hari ini sudah lain, kesuksesan akan diaraih selama semangat masih menyengat</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="osju/royyan.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="4">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Muhammad Royyan Sigmadina</h3>
+                      <p class="text-muted">Kelas : VIII B</p>
+                      <p class="text-muted">Asal  : Jakarta  Pusat</p>
+                      <p class="text-muted">TTL : Jakarta, 11 Desember 2006</p>
+                      <p class="text-muted">Hobi  : Membaca</p>
+                      <p class="text-muted">Motto Hidup : <i>Talk Less, Work More</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
@@ -429,61 +429,61 @@
                 </div>
                 <div class="row col-md-12">
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="osju/mirza.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                       <input type="hidden" name="nourut" value="5">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Muhammad Mirza Dwisahman</h3>
+                      <p class="text-muted">Kelas : VIII A</p>
+                      <p class="text-muted">Asal  : Cirebon</p>
+                      <p class="text-muted">TTL : Cirebon, 3 Januari 2007</p>
+                      <p class="text-muted">Hobi  : Baca Buku</p>
+                      <p class="text-muted">Motto Hidup : <i>Ingat Allah, Maka Allah akan selalu mengingat hambanya yang beriman</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="osju/sudais.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="6">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Sudais Al-Huzaifi Robbani</h3>
+                      <p class="text-muted">Kelas : VIII C</p>
+                      <p class="text-muted">Asal  : Bandung</p>
+                      <p class="text-muted">TTL : -</p>
+                      <p class="text-muted">Hobi  : Main Sepak Bola</p>
+                      <p class="text-muted">Motto Hidup : <i>Sukses tidak diraih di Zona Nyaman </i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="osju/abdurrahman.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="7">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Fahmi Abdurrahman</h3>
+                      <p class="text-muted">Kelas : VIII C</p>
+                      <p class="text-muted">Asal  : Bekasi Kota</p>
+                      <p class="text-muted">TTL : Jakarta,10 Maret 2007</p>
+                      <p class="text-muted">Hobi  : Main Bola, Memelihara Hewan</p>
+                      <p class="text-muted">Motto Hidup : <i>Kesempatan bukanlah Hal Yang kebetulan kau harus menciptakannya</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="osju/atsal.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="8">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Atsal Aufa Siregar</h3>
+                      <p class="text-muted">Kelas : VIII B</p>
+                      <p class="text-muted">Asal  : Medan</p>
+                      <p class="text-muted">TTL : Medan, 24 Desember  2007</p>
+                      <p class="text-muted">Hobi  : Bermain</p>
+                      <p class="text-muted">Motto Hidup : <i>Hidup adalah Perjuangan</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
@@ -491,31 +491,16 @@
                 </div>
                 <div class="row col-md-12">
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="osju/hanif.png" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                       <input type="hidden" name="nourut" value="9">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
-                      <button class="btn btn-primary" type="submit">Pilih</button>
-                      </form>
-                    </div>
-                  </div>
-                  <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
-                    <div class="card-body">
-                      <form method="post" action="">
-                        <input type="hidden" name="nourut" value="10">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Indriyan Hanif Adiyatma</h3>
+                      <p class="text-muted">Kelas : VIII A</p>
+                      <p class="text-muted">Asal  : Bogor</p>
+                      <p class="text-muted">TTL : Bekasi, 23 September 2006</p>
+                      <p class="text-muted">Hobi  : Baca Buku, Main Bola</p>
+                      <p class="text-muted">Motto Hidup : <i>Tidak ada yang mustahil, yang ada hanya malas untuk mencoba dan berusaha. Kalau mau  berusaha dan berdo’a kepada Allah yang maha kuasa, niatkan Lillahi ta’ala, Insya Allah Bisa </i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
