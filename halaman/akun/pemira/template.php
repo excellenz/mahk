@@ -96,16 +96,16 @@
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/rizq.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="4">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Depok, 23 Juni 2004</p>
-                      <p class="text-muted">Hobi  : Baca Buku</p>
-                      <p class="text-muted">Motto Hidup : <i>Ini Hidupmu lakukan sesuka-mu, jangan lupakan yang membantumu</i></p>
+                      <h3 class="card-title">Muhammad Rizq Mubarak</h3>
+                      <p class="text-muted">Kelas : XI PK 2</p>
+                      <p class="text-muted">Asal  : DKI Jakarta</p>
+                      <p class="text-muted">TTL : Jakarta, 5 Juni 2004</p>
+                      <p class="text-muted">Hobi  : Basket, Sosial</p>
+                      <p class="text-muted">Motto Hidup : <i>You do what you have to do</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
@@ -113,61 +113,61 @@
                 </div>
                 <div class="row col-md-12">
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/hakim.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                       <input type="hidden" name="nourut" value="5">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Hakim Mutiara Hati</h3>
+                      <p class="text-muted">Kelas : XI PK 3</p>
+                      <p class="text-muted">Asal  : Ponorogo</p>
+                      <p class="text-muted">TTL : 25 April 2002</p>
+                      <p class="text-muted">Hobi  : Olahraga</p>
+                      <p class="text-muted">Motto Hidup : <i>Khoirunnas Anfa’uhum Linnas</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/anwar.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="6">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Muhammad Anwar Fajri</h3>
+                      <p class="text-muted">Kelas : XI PK 2</p>
+                      <p class="text-muted">Asal  : Bekasi</p>
+                      <p class="text-muted">TTL : Bekasi, 16 Januari 2004</p>
+                      <p class="text-muted">Hobi  : Berkarya</p>
+                      <p class="text-muted">Motto Hidup : <i>Saya dilahirkan dari ummat, ada untuk ummat, dan harus siap mengabdi pada ummat</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/avicena.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="7">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Avicenna Mujtahid Nasawi</h3>
+                      <p class="text-muted">Kelas : XI IPA 4</p>
+                      <p class="text-muted">Asal  : Bandung</p>
+                      <p class="text-muted">TTL : Bandung, 9 Desember 2004</p>
+                      <p class="text-muted">Hobi  : Travelling</p>
+                      <p class="text-muted">Motto Hidup : <i>Hidup manfaat dan tidak membebani</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/ardi.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="8">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Hafizh Ardi Imawan</h3>
+                      <p class="text-muted">Kelas : XI PK 1</p>
+                      <p class="text-muted">Asal  : Bogor</p>
+                      <p class="text-muted">TTL : Bogor, 25 Mei 2003</p>
+                      <p class="text-muted">Hobi  : Berpikir</p>
+                      <p class="text-muted">Motto Hidup : <i>Hiduplah sebagaimana mestinya</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
@@ -175,31 +175,31 @@
                 </div>
                 <div class="row col-md-12">
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/ikbaar.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                       <input type="hidden" name="nourut" value="9">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
+                      <h3 class="card-title">Muhammad Ikbaar Al Islami</h3>
                       <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <p class="text-muted">Asal  : Belitung</p>
+                      <p class="text-muted">TTL : Kalapa Kampit, 18 Desember 2004</p>
+                      <p class="text-muted">Hobi  : Menulis Puisi</p>
+                      <p class="text-muted">Motto Hidup : <i>Kau adalah yang kau pikirkan,bukan yang orang katakan</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
                   </div>
                   <div class="card col-md-3">
-                    <img src="oshk/zhafif.jpg" class="card-img-top">
+                    <img src="oshk/yusuf.jpg" class="card-img-top">
                     <div class="card-body">
                       <form method="post" action="">
                         <input type="hidden" name="nourut" value="10">
-                      <h3 class="card-title">Muhammad Zhafif Naufal Azhar</h3>
-                      <p class="text-muted">Kelas : XI IPS 1</p>
-                      <p class="text-muted">Asal  : Depok</p>
-                      <p class="text-muted">TTL : Jakarta, 5 November 2004</p>
-                      <p class="text-muted">Hobi  : Memotret, Menyendja</p>
-                      <p class="text-muted">Motto Hidup : <i>Intinya berarti, ga ribet, ga susah, cukup peduli</i></p>
+                      <h3 class="card-title">Yusuf Hafidzun Alim</h3>
+                      <p class="text-muted">Kelas : XI IPA 1</p>
+                      <p class="text-muted">Asal  : Karawang</p>
+                      <p class="text-muted">TTL : Karawang, 15 Juli 2004</p>
+                      <p class="text-muted">Hobi  : Main Bola</p>
+                      <p class="text-muted">Motto Hidup : <i>Higienis di dalam, Tangguh di luar”</i></p>
                       <button class="btn btn-primary" type="submit">Pilih</button>
                       </form>
                     </div>
