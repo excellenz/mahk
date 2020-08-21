@@ -11,7 +11,7 @@ if (!isset($_SESSION['username']))
 {
 	header("location: ".MAIN_URL."config.php");
 }
-elseif ($_SESSION['status'] == 2)
+elseif ($_SESSION['status'] > 1)//tadinya > 2, diganti > 1
 {
 	header("location: ".MAIN_URL."guru");
 }

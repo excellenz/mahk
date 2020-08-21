@@ -63,57 +63,24 @@ function smt()
 	}
 }
 
-function tampil_level($lev)
+function tampilJudul($title)
 {
+	# code...
+	$arr = explode(" ", $title);
+    $limit = 3;
+    $new = [];
 
-	switch ($lev)
-	{
-	case "id" :
-	    return "IDAD";
-	    break;
-	case "xa" :
-	    return "X-IPA";
-	    break;
-	case "xs" :
-	    return "X-IPS";
-	    break;
-	case "xk" :
-	    return "X-PK";
-	    break;
-	case "xia" :
-	    return "XI-IPA";
-	    break;
-	case "xis" :
-	    return "XI-IPS";
-	    break;
-	case "xik" :
-	    return "XI-PK";
-	    break;
-	case "xiia" :
-	    return "XII-IPA";
-	    break;
-	case "xiis" :
-	    return "XII-IPS";
-	    break;
-	case "xiik" :
-	    return "XII-PK";
-	    break;
-	default :
-	    return "N.A.";
-	    break;
-	}
-}
+    if (count($arr) > $limit) {
+        for($i = 0; $i < $limit; $i++) {
+            array_push($new, $arr[$i]);
+        }
+    }
 
-function detail_kelas($kelas)
-{
-	$level = ['X' => 'X (Sepuluh)', 'XI' => 'XI (Sebelas)', 'XII' => 'XII (Dua belas)'];
-	$program = ['IPA' => 'Matematika dan Ilmu Alam', 'IPS' => 'Ilmu-ilmu Sosial', 'PK' => 'Ilmu-ilmu Keagamaan'];
-	$pecah = explode(" ", $kelas);
-
-	$rinci = $level[$pecah[0]]."/".$program[$pecah[1]]."/".$pecah[2];
-
-	$detail = explode("/", $rinci);
-
-	return $detail;
-
+    if($new) {
+        $new = implode(" ", $new);
+        echo $new."..."; // Output : Rasang Beam Steal
+    }
+    else {
+        echo $title;
+    }
 }

@@ -30,11 +30,7 @@ else
 		foreach ($data as $row)
 		{
 			$username = $row['user_name'];
-			$nama = $row['nama_lengkap'];
-			$pass = $row['user_password'];
-			$kelas = strtolower($row['kelas']);
-			$indeks = $row['indeks'];
-			//$sta = $row['status'];
+			$sta = $row['level'];
 
 			$log = "INSERT INTO user_log(username, status, halaman) VALUES ('$username', 'login', 'home')";
 			$hasil = $conn->getDb()->query($log);
@@ -42,7 +38,7 @@ else
 			session_start();
 			$_SESSION['username'] = $username;
 			$_SESSION['nama'] = $nama;
-			//$_SESSION['status'] = $sta;
+			$_SESSION['status'] = $sta;
 			header("location: ".MAIN_URL."index.php");
 		}
 	}
