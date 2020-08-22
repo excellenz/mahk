@@ -135,7 +135,7 @@ require "log.php";
 					</div>
 				</div>
 				<div class="col-lg-6">
-					<ul class="social-network">
+					<ul class="align-right social-network">
 						<li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 						<li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 						<li><a href="#" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
